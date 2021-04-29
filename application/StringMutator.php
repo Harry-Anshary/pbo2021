@@ -1,5 +1,7 @@
 <?php
-namespace application;
+
+namespace App;
+
 class StringMutator{
     protected $word;
 

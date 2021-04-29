@@ -1,0 +1,16 @@
+{
+    "name": "harry_anshary/pbo2021",
+    "description": "Praktikum PBO",
+    "authors": [
+        {
+            "name": "Harry Anshary",
+            "email": "harryanshary@student.untan.ac.id"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "application"
+        }
+    }
+}
